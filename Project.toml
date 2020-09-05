@@ -1,0 +1,13 @@
+name = "PlaywithZygoteFlux"
+uuid = "093a87d2-94a6-4031-a0dd-449fea1a3733"
+authors = ["Chengran Yang"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
