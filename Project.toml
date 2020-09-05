@@ -3,6 +3,9 @@ uuid = "093a87d2-94a6-4031-a0dd-449fea1a3733"
 authors = ["Chengran Yang"]
 version = "0.1.0"
 
+[deps]
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
 [compat]
 julia = "1"
 
